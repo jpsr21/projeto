@@ -1,0 +1,29 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "projeto usando node.js no backend e react.js no frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpsr21/projeto.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "react",
+    "react.js"
+  ],
+  "author": "João Paulo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpsr21/projeto/issues"
+  },
+  "homepage": "https://github.com/jpsr21/projeto#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
